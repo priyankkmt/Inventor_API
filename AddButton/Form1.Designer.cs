@@ -1,4 +1,4 @@
-﻿namespace lesson1_VS2017_CSharp_Complete
+﻿namespace AddButton
 {
     partial class Form1
     {
@@ -16,10 +16,6 @@
 
         #region Windows Form Designer generated code
 
-        /// <summary>
-        /// Required method for Designer support - do not modify
-        /// the contents of this method with the code editor.
-        /// </summary>
         private void InitializeComponent()
         {
             this.button1 = new System.Windows.Forms.Button();
